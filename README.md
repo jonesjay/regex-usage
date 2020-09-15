@@ -1,1 +1,3 @@
 # regex-usage
+This are just tutorials or usage of using regular expresssions in python.
+Just some basics... 
